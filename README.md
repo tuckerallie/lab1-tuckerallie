@@ -8,3 +8,5 @@ I am studying mathematics.
 I enjoy reading, running, and being involved with clubs. 
 
 I organize my work with a daily planner, sticky notes, and a file system. 
+
+**EDITED BY JOSH**
